@@ -1,5 +1,5 @@
 __NAME__ = "History"
-__MENU__ = """
+__MENU__ = "Naru")
 `.history` - **Get All Names
 and Usernames History.**
 
